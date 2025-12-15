@@ -17,14 +17,13 @@ The design handles clock-domain crossing using synchronizers and uses request–
 - Tool: Xilinx Vivado
 
 ## File Structure
-
-src/
-├── top.v
-├── multi_clock_arbiter.v
-├── master.v
-├── slave.v
-├── req_sync.v
-└── tb_top.v
+src/ <br>
+├── top.v <br>
+├── multi_clock_arbiter.v <br>
+├── master.v <br>
+├── slave.v <br>
+├── req_sync.v <br>
+└── tb_top.v <br>
 
 
 ## Simulation
